@@ -1,2 +1,3 @@
 # Arduino_RealTime_IIR
-A basic library for IIR filtering in real-time.
+This library computes Infinite Impulse Response Filter. </br>
+Filter coefficients, for example, could be evaluate in Matlab (R) and then passed as arguments in the IIR constructor method.
